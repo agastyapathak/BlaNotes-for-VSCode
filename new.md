@@ -1,3 +1,4 @@
 # List of upcoming features 
 
-## Search your notes
+## Search through past notes
+ - 
