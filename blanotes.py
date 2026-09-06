@@ -1,6 +1,6 @@
 """
 BlaNotes
-Code by Agastya Pathak
+Code by Agastya Pathak.
 
 commands:
    /history   - show all saved notes
